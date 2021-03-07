@@ -24,3 +24,6 @@ Model Building:
  - Train themodel
  - To deal with large training time, save the weights so that you can use them when training the model for the second time without starting from scratch.
 
+We have covered following models to approach given probem. 
+All these working models are saved in jupyter notebook format along with the final weights file used for generating ouputs.
+
